@@ -16,3 +16,12 @@ https://github.com/arackaf/customize-cra/blob/master/api.md
 # git checkout urlCommit
 
 # Cài đặt và cấu hình Prettier
+
+# Cấu hình sử dụng CSS/SASS
+
+    npm i -D sass
+
+    reset css normalize npm
+    https://www.npmjs.com/package/normalize.css
+
+    https://fonts.google.com/specimen/Montserrat
