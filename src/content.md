@@ -25,3 +25,9 @@ https://github.com/arackaf/customize-cra/blob/master/api.md
     https://www.npmjs.com/package/normalize.css
 
     https://fonts.google.com/specimen/Montserrat
+
+# Cấu hình Router/Layout cho dự án
+
+    Cài đặt react-router-dom `npm i react-router-dom`
+    Đưa cấu hình routes ra ngoài
+    Xây dựng cơ chế tải Layout
