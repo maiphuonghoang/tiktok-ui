@@ -31,3 +31,12 @@ https://github.com/arackaf/customize-cra/blob/master/api.md
     Cài đặt react-router-dom `npm i react-router-dom`
     Đưa cấu hình routes ra ngoài
     Xây dựng cơ chế tải Layout
+
+tippyjs/react xây dựng proper
+https://www.npmjs.com/package/@tippyjs/react
+https://atomiks.github.io/tippyjs/v5/all-props/
+
+layer bên dưới dừng lại
+setTimeout(()=>{
+debugger;
+}, 5000)
